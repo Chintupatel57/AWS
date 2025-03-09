@@ -1,2 +1,0 @@
-# AWS
-Hands on project
